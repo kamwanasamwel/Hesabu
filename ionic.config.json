@@ -1,0 +1,8 @@
+{
+  "name": "hesabu",
+  "app_id": "46c928e5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
